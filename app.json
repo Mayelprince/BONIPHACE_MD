@@ -1,8 +1,8 @@
 {
-  "name":"BONIPHACE💥 MD",
-  "description":"Best WhatsApp Bot Developed By Boniphace Contact Us 255716661569 Thank you for choose BONIPHACE🍀 MD",
+  "name":"BONIPHACE MD UPDATE",
+  "description":"Best WhatsApp Bot Developed By Fredie Contact Us 255686745716,255620814108,255764182801 Thank you for choose Lucky🍀 MD",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/00b2cd460495e3fb0a0eb.jpg",
+  "logo":"https://telegra.ph/file/f6c60977ceb194e05e616.jpg",
   "repository":"https://github.com/HACKING995/HACKING956",
   "succes_url":"/",
   "stack":"container",
@@ -10,7 +10,7 @@
     "PREFIX":
     {
       "description":"choose your prefix of bot",
-      "value":"+",
+      "value":".",
       "required":true
     },
     "AUTO_READ_STATUS":
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BONIPHACE💥-MD 🅱️",
+      "value":"LUCKY🍀_MD V5",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/00b2cd460495e3fb0a0eb.jpg",
+      "value":"https://telegra.ph/file/60cd0a18bda777a41ffe3.jpg,https://telegra.ph/file/f6c60977ceb194e05e616.jpg,https://telegra.ph/file/bc9bf76f258c98877d993.jpg,https://telegra.ph/file/d04abf5e17b331ab46871.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "BONIPHACE TECH💥"
+    "value": "FREDIE_TECH🤞"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255716661569"
+    "value": "255686745716,255620814108,255764182801"
 	  
   },
     "WARN_COUNT":
