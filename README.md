@@ -83,7 +83,7 @@ star✨ my repo if you like this bot🤖
 CONTACT DEVELOPER ON WHATSAPP 
 
 <a href="https://wa.me/255716661569" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ fredie tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Boniphace tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
   
