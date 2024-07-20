@@ -74,7 +74,7 @@ star✨ my repo if you like this bot🤖
 
 **2. If You Have Account On Heroku**
 -<h1 align="center">       
-   ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/boniphace704/Boniphace_Md/tree/main)***
+   ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/boniphace704/BONIPHACE_MD/tree/main)***
 
 ##
 
@@ -103,7 +103,7 @@ The WhatsApp Bot BONIPHACE💥_MD is released under the [MIT License](https://op
 ## DEVELOPERS :
 
 - [**BONIPHACE TEACH**](https://github.com/boniphace704)
-- [**FREDIE TEACH**](https://github.com/Fred1e)
+- [**FREDIE TECH**](https://github.com/Fred1e)
 - [**BONIPHACE TECH**](https://github.com/boniphace704)
 - [**JOEL TECH**](https://github.com/joeljamestech)
 - [**Developers YT**](https://youtube.com/@anthonyboniphace?si=EIdEbeRSsJuW35Rq)
