@@ -64,7 +64,7 @@ star✨ my repo if you like this bot🤖
 
 
  
-<a href="https://boniphace-md-v5session-f9e3e8635f8b.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://boniphace-md-session-app-558ce511c2c1.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
 ## 3.THIRD STEP 
