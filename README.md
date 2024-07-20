@@ -1,5 +1,5 @@
 ## BONIPHACE MD 💥
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Boniphace+Md+Created+by+BONIPHACE TEACH.&heart;++;Self-taught+Back-Created+By,;Boniphace+Teach+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+boniphace+Md+Created+by+BONIPHACE TEACH.&heart;++;Self-taught+Back-Created+By,;Boniphace+Teach+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a href="https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G">
  <img alt="BONIPHACE MD 💥" height="300" src="https://telegra.ph/file/00b2cd460495e3fb0a0eb.jpg">
   
