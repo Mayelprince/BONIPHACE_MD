@@ -19,7 +19,7 @@ const { bugtext6 } = require("../framework/bugs/bugtext6");
 const { bugpdf } = require("../framework/bugs/bugpdf.js");
 
 const category = "menu";
-const reaction = "🦔";
+const reaction = "🅱️";
 
 const mess = {};
 mess.prem = "You are not authorised to use this  command !!!";
@@ -119,7 +119,7 @@ zokou(
     {
         nomCom: "luckybugs",
         categorie: "menu",
-        reaction: "🦔",
+        reaction: "🅱️",
     },
 
     async (dest, zk, commandOptions) => {
@@ -190,7 +190,7 @@ docugcbug <grouplink>${mono}`;
                                     thumbnailUrl: tumbUrl,
                                     previewType: "PHOTO",
                                     sourceUrl:
-                                        "https://whatsapp.com/channel/0029VaKjSra9WtC0kuJqvl0g",
+                                        "https://whatsapp.com/channel/0029VadOdZt9Gv7XPCESv12S",
                                     mediaType: 1,
                                     renderLargerAbhinail: true
                                 }
@@ -209,7 +209,7 @@ zokou(
     {
         nomCom: "bug",
         categorie: "menu",
-        reaction: "🐞",
+        reaction: "🅱️",
     },
 
     async (dest, zk, commandOptions) => {
@@ -241,7 +241,7 @@ zokou(
                     bugpdf
             });
         }
-        await zk.sendMessage(dest, { react: { text: "✅", key: ms.key } });
+        await zk.sendMessage(dest, { react: { text: "🅱️", key: ms.key } });
     }
 );
 
@@ -250,7 +250,7 @@ zokou(
     {
         nomCom: "crash",
         categorie: "menu",
-        reaction: "🕸️",
+        reaction: "🅱️",
     },
 
     async (dest, zk, commandOptions) => {
@@ -298,7 +298,7 @@ zokou(
                 );
             }
         }
-        await zk.sendMessage(dest, { react: { text: "✅", key: ms.key } });
+        await zk.sendMessage(dest, { react: { text: "🅱️", key: ms.key } });
     }
 );
 
@@ -307,7 +307,7 @@ zokou(
     {
         nomCom: "crashbug",
         categorie: "menu",
-        reaction: "🐝"
+        reaction: "🅱️"
     },
 
     async (dest, zk, commandOptions) => {
@@ -389,7 +389,7 @@ zokou(
                 }
             }
         }
-        await react(dest, zk, ms, "✅");
+        await react(dest, zk, ms, "🅱️");
     }
 );
 
@@ -398,7 +398,7 @@ zokou(
     {
         nomCom: "amountbug",
         categorie: "menu",
-        reaction: "🕷️",
+        reaction: "🅱️",
     },
 
     async (dest, zk, commandOptions) => {
@@ -446,7 +446,7 @@ zokou(
         await repondre(
             `*Successfully sent as many bugs as ${amount} Please pause for 3 minutes*`
         );
-        await react(dest, zk, ms, "✅");
+        await react(dest, zk, ms, "🅱️");
     }
 );
 
@@ -455,7 +455,7 @@ zokou(
     {
         nomCom: "pmbug",
         categorie: "menu",
-        reaction: "🦔",
+        reaction: "🅱️",
     },
 
     async (dest, zk, commandOptions) => {
@@ -530,7 +530,7 @@ zokou(
                 }
             }
         }
-        await react(dest, zk, ms, "✅");
+        await react(dest, zk, ms, "🅱️");
     }
 );
 
