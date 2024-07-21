@@ -71,7 +71,7 @@ const date = moment().format('DD/MM/YYYY');
 ┃   User : ${s.OWNER_NAME}
 ┃
 ┣━boniphace md new vision 𒈒━➠
-┗━━━𒈒by bini teach 𒈒━━┛\n\n`;
+┗━━━𒈒by boniphace teach 𒈒━━┛\n\n`;
 
 
     
