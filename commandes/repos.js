@@ -3,8 +3,8 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
-  const githubRepo = 'https://api.github.com/repos/boniphace704/BONIPHACE-MD';
-  const img = 'https://telegra.ph/file/ee8fda2ed547fe39e7e97.jpg';
+  const githubRepo = 'https://github.com/boniphace704/BONIPHACE_MD';
+  const img = 'https://telegra.ph/file/59ead3c2b58ca1b07734d.jpg';
 
   try {
     const response = await fetch(githubRepo);
@@ -21,19 +21,19 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __f
       const releaseDate = new Date(data.created_at).toLocaleDateString('en-GB');
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
-      const gitdata = `*hellow whatsaap user
-this is* *Boniphace_md 💥.*\n get session id *by*, *pairing code*  https://boniphace-md-session-app-558ce511c2c1.herokuapp.com/pair/
+      const gitdata = `*hellow Friend
+this is* *Boniphace_md V2.*\n get session id *by*, *pairing code*  https://boniphace-md-session-app-558ce511c2c1.herokuapp.com/
 
 🗼 *REPOSITORY:* ${data.html_url}
-✨ *STARS:* ${repoInfo.stars}
+🌟 *STARS:* ${repoInfo.stars}
 🧧 *FORKS:* ${repoInfo.forks}
 📅 *RELEASE DATE:* ${releaseDate}
 🕐 *UPDATE ON:* ${repoInfo.lastUpdate}
 👨‍💻 *OWNER:* *Boniphace tech*
-🍀 *THEME:* *BONIPHACE TEACH*
-🥰*BONIPHACE Is the KING 👑*
+💞 *THEME:* *LUCKY*
+🥰*Boniphace Is The King🤞*
 __________________________________
-            *Made With Boniphace Tech*`;
+            *Made With Boniphace Teach*`;
 
       await zk.sendMessage(dest, { image: { url: img }, caption: gitdata });
     } else {
