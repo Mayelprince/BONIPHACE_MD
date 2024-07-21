@@ -4,7 +4,7 @@ const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
   const githubRepo = 'https://github.com/boniphace704/BONIPHACE_MD';
-  const img = 'https://telegra.ph/file/59ead3c2b58ca1b07734d.jpg';
+  const img = 'https://telegra.ph/file/00b2cd460495e3fb0a0eb.jpg';
 
   try {
     const response = await fetch(githubRepo);
@@ -22,7 +22,7 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __f
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
       const gitdata = `*hellow Friend
-this is* *Boniphace_md V2.*\n get session id *by*, *pairing code*  https://boniphace-md-session-app-558ce511c2c1.herokuapp.com/
+this is* *Boniphace_md 💥.*\n get session id *by*, *pairing code*  https://boniphace-md-session-app-558ce511c2c1.herokuapp.com/
 
 🗼 *REPOSITORY:* ${data.html_url}
 🌟 *STARS:* ${repoInfo.stars}
@@ -30,7 +30,7 @@ this is* *Boniphace_md V2.*\n get session id *by*, *pairing code*  https://bonip
 📅 *RELEASE DATE:* ${releaseDate}
 🕐 *UPDATE ON:* ${repoInfo.lastUpdate}
 👨‍💻 *OWNER:* *Boniphace tech*
-💞 *THEME:* *LUCKY*
+💞 *THEME:* *BONIPHACE MD*
 🥰*Boniphace Is The King🤞*
 __________________________________
             *Made With Boniphace Teach*`;
