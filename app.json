@@ -1,6 +1,6 @@
 {
   "name":"BONIPHACE MD UPDATE",
-  "description":"Best WhatsApp Bot Developed By Fredie Contact Us 255686745716,255620814108,255764182801 Thank you for choose Lucky🍀 MD",
+  "description":"Best WhatsApp Bot Developed By Boniphace Contact Us 255716661569 Thank you for choose Boniphace MD",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/f6c60977ceb194e05e616.jpg",
   "repository":"https://github.com/HACKING995/HACKING956",
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"LUCKY🍀_MD V5",
+      "value":"BONIPHACE_MD",
       "required":false
 
     } ,
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "FREDIE_TECH🤞"
+    "value": "BONIPHACE_TEACH🤞"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255686745716,255620814108,255764182801"
+    "value": "255716661569"
 	  
   },
     "WARN_COUNT":
