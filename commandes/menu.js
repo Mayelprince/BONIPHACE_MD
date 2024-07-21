@@ -71,7 +71,7 @@ const date = moment().format('DD/MM/YYYY');
 ┃   User : ${s.OWNER_NAME}
 ┃
 ┣━boniphace md new vision 𒈒━➠
-┗━━━𒈒by joel tech 𒈒━━┛\n\n`;
+┗━━━𒈒by bini teach 𒈒━━┛\n\n`;
 
 
     
@@ -97,7 +97,7 @@ boniphace md cmds𒈒
         for (const cmd of coms[cat]) {
 
             menuMsg += `
-┃➠ ${cmd}`;
+┃✔️ ${cmd}`;
 
         }
 
@@ -134,7 +134,7 @@ boniphace md cmds𒈒
 
     try {
 
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *JOEL-BOT*, déveloper joel james" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *BONIPHACE-MD*, déveloper boniphace teach" , gifPlayback : true }, { quoted: ms });
 
     }
 
