@@ -34,7 +34,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-*BONIPHACE MD 🅱️ AVAILABLE MENUS* 
+*BONIPHACE MD 💥 AVAILABLE MENUS* 
 
 
     ▸ *commander* : ${cm.length} 
@@ -42,7 +42,7 @@ const date = moment().format('DD/MM/YYYY');
     ▸ *uptime* : ${os.platform()}
     ▸ *theme* : *BONIPHACE TEACH*
 
-> BONIPHACE MD 🅱️ WA BOT
+> BONIPHACE MD 💥 WA BOT
 > POWERED BY BONIPHACE TEACH 💎\n${readmore}`;
     
 let menuMsg = `
@@ -64,7 +64,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *BONIPHACE MD 🅱️*, déveloper BONIPHACE TEACH" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *BONIPHACE MD 💥*, déveloper BONIPHACE TEACH" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
