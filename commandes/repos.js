@@ -25,13 +25,13 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __f
 this is* *Boniphace_md 💥.*\n get session id *by*, *pairing code*  https://boniphace-md-session-d44b2065182f.herokuapp.com//
 
 🗼 *REPOSITORY:* ${data.html_url}
-🌟 *STARS:* ${repoInfo.stars}
+💫 *STARS:* ${repoInfo.stars}
 🧧 *FORKS:* ${repoInfo.forks}
 📅 *RELEASE DATE:* ${releaseDate}
 🕐 *UPDATE ON:* ${repoInfo.lastUpdate}
-👨‍💻 *OWNER:* *Boniphace tech*
-💞 *THEME:* *BONIPHACE MD*
-🥰*Boniphace Is The King🤞*
+🙊 *OWNER:* *Boniphace tech*
+🍃 *THEME:* *BONIPHACE MD*
+🍷 *Boniphace Is The King🤞*
 __________________________________
             *Made With Boniphace Teach*`;
 
