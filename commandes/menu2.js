@@ -34,7 +34,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────  BONIPHACE MD 🅱️ ─────✣
+╭────  BONIPHACE MD 💥 ─────✣
 │  ╭─────────────✣
 │  │▸ *my owner* : ${s.OWNER_NAME}
    │▸ *commander* : ${nomAuteurMessage} 
@@ -47,11 +47,11 @@ const date = moment().format('DD/MM/YYYY');
     ▸ *running on* : ${os.platform()}
     ▸ *theme* : *BONIPHACE TEACH*
 
-> BONIPHACE MD 🅱️ 2024\n${readmore}`;
+> BONIPHACE MD 💥 2024\n${readmore}`;
     
 let menuMsg = `
 
- * BONIPHACE MD 🅱️ COMMADS *${readmore}
+ * BONIPHACE MD 💥 COMMADS *${readmore}
 `;
 
     for (const cat in coms) {
