@@ -60,11 +60,11 @@ star✨ my repo if you like this bot🤖
  GET SESSION ID BY
  
 
-<a href="https://lucky-md-v5-session-b84a92156ee1.herokuapp.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://boniphacemd-9c1312707fb4.herokuapp.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
  
-<a href="https://lucky-md-v5-session-b84a92156ee1.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://boniphacemd-9c1312707fb4.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
 ## 3.THIRD STEP 
@@ -102,7 +102,7 @@ The WhatsApp Bot BONIPHACE💥_MD is released under the [MIT License](https://op
 
 ## DEVELOPERS :
 
-- [**BONIPHACE TEACH**](https://github.com/boniphace704)
+- [**BONIPHACE TECH**](https://github.com/boniphace704)
 - [**FREDIE TECH**](https://github.com/Fred1e)
 - [**BONIPHACE TECH**](https://github.com/boniphace704)
 - [**JOEL TECH**](https://github.com/joeljamestech)
