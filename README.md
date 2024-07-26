@@ -60,11 +60,11 @@ star✨ my repo if you like this bot🤖
  GET SESSION ID BY
  
 
-<a href="https://bonioyo-96db6e364b3e.herokuapp.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://b51b09c7-693b-489e-b25a-c399b0708135-00-36ezur5vykkcq.kirk.replit.dev/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
  
-<a href="https://bonioyo-96db6e364b3e.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://b51b09c7-693b-489e-b25a-c399b0708135-00-36ezur5vykkcq.kirk.replit.dev/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
 ## 3.THIRD STEP 
