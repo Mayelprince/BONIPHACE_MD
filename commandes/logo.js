@@ -69,7 +69,7 @@ zokou({ nomCom: "naruto", categorie: "Logo", reaction: "⛩" }, async (dest, zk,
 /*zokou({ nomCom: "didong", categorie: "Logo", reaction: "📱" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre, arg, prefixe } = commandeOptions;
     
-    var titre = "\t logo by hacking-Md";
+    var titre = "\t logo by BONIPHACE-MD";
     try {
       var lien = "https://ephoto360.com/tao-anh-che-vui-tu-choi-cuoc-goi-voi-ten-cua-ban-930.html";
         if (!arg || arg == "") {
@@ -114,7 +114,7 @@ zokou({ nomCom: "didong", categorie: "Logo", reaction: "📱" }, async (dest, zk
 zokou({nomCom : "wall",categorie : "Logo",reaction : "👍"} , async (dest,zk,commandeOptions) =>{
 
   const {arg,repondre,ms,prefixe} = commandeOptions;
-  if(!arg[0]) { repondre( `Exemple of using commande:\n ${prefixe}wall Hacking-MD` ); return ;}
+  if(!arg[0]) { repondre( `Exemple of using commande:\n ${prefixe}wall BONIPHACE-MD` ); return ;}
    let text = arg.join(" ")
    mumaker.textpro("https://textpro.me/break-wall-text-effect-871.html", text)
 .then((data) =>{
@@ -242,7 +242,7 @@ var lien="https://en.ephoto360.com/boom-text-comic-style-text-effect-675.html";
          
 
 repondre("  processing ...")
-         await zk.sendMessage(dest,{image:{url:img.image},caption:"\t *Logo by Hacking-Md*"})
+         await zk.sendMessage(dest,{image:{url:img.image},caption:"\t *Logo by BONIPHACE-MD*"})
          
         // await zk.sendMessage(dest,{image:{url:lienImage},caption:"\t *Logo by Zokou-Md*"})
          
@@ -438,7 +438,7 @@ zokou({nomCom:"purple",categorie:"Logo",reaction:"🧳"},async(dest,zk,commandeO
       const lien="https://en.ephoto360.com/purple-text-effect-online-100.html"
       var img = await mumaker.ephoto(lien,arg);
       repondre(" processing ...")
-      await zk.sendMessage(dest,{image:{url:img.image},caption:"      *Logo by Hacking-MD*"});
+      await zk.sendMessage(dest,{image:{url:img.image},caption:"      *Logo by BONIPHACE-MD*"});
     }catch(e){repondre(e)}
   
 })
@@ -475,7 +475,7 @@ zokou({nomCom:"arena",categorie:"Logo",reaction:"🥵"},async(dest,zk,commandeOp
     var lien="https://en.ephoto360.com/create-cover-arena-of-valor-by-mastering-360.html";
 
     var img = await mumaker.ephoto(lien,arg.join(' '));
-   repondre("processing ...")
+   repondre("Boniphace Md is processing ...")
     await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by BONIPHACE TEACH*"},{quoted:ms})
   }catch(e){repondre(e)}
 })
