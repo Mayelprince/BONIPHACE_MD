@@ -55,7 +55,7 @@ star✨ my repo if you like this bot🤖
 
 
 ## 2.SECOND STEP 
-
+while deploying boniface md use any PREFIX but don't use (.) and (,) to enable antilink feature🙏
 
  GET SESSION ID BY
  
