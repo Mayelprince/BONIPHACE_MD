@@ -8,10 +8,10 @@
 
 </p>
   <p align="center">
-<a href="https://github.com/boniphace704?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/boniphace704?label=Followers&style=social"></a>
-<a href="https://github.com/boniphace704/boniphace_md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/boniphace704/boniphace_md?&style=social"></a>
-<a href="https://github.com/boniphace704/boniphace_md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/boniphace704/boniphace_md?style=social"></a>
-<a href="https://github.com/boniphace704/boniphace_md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/boniphace704/boniphace_md?label=Watching&style=social"></a>
+<a href="https://github.com/boniphace478?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/boniphace478?label=Followers&style=social"></a>
+<a href="https://github.com/boniphace478/boniphace_md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/boniphace478/boniphace_md?&style=social"></a>
+<a href="https://github.com/boniphace478/boniphace_md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/boniphace478/boniphace_md?style=social"></a>
+<a href="https://github.com/boniphace478/boniphace_md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/boniphace478/boniphace_md?label=Watching&style=social"></a>
 
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{boniphace478}/count.svg" alt="boniphace_md :: Visitor's Count" /></p>
