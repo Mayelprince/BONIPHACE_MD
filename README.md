@@ -14,17 +14,17 @@
 <a href="https://github.com/boniphace704/boniphace_md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/boniphace704/boniphace_md?label=Watching&style=social"></a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{boniphace704}/count.svg" alt="boniphace_md :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{boniphace478}/count.svg" alt="boniphace_md :: Visitor's Count" /></p>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/boniphace704/boniphace_md"><b>boniphace_md</b></a> Support Deploy On...
+  <a href="https://github.com/boniphace478/boniphace_md"><b>boniphace_md</b></a> Support Deploy On...
 </p>
 
 <p align="center">
-  <a href="https://github.com/boniphace704/boniphace_Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/boniphace704/boniphace_Md/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+  <a href="https://github.com/boniphace478/boniphace_Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/boniphace478/boniphace_Md/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://youtu.be/izoxfW3anrU"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
 
@@ -49,7 +49,7 @@
 ## Fork BONIPHACE MD 💥 Repo
 
 
-<a href="https://github.com/boniphace704/BONIPHACE_MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://github.com/boniphace478/BONIPHACE_MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 star✨ my repo if you like this bot🤖
 
@@ -74,7 +74,7 @@ star✨ my repo if you like this bot🤖
 
 **2. If You Have Account On Heroku**
 -<h1 align="center">       
-   ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/boniphace704/BONIPHACE_MD/tree/main)***
+   ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/boniphace478/BONIPHACE-MD/tree/main)***
 
 ##
 
