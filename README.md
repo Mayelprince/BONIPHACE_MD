@@ -46,10 +46,10 @@
 
 
 ## 1.FIRST STEP 
-## Fork BONIPHACE MD 💥 Repo
+## Fork Lucky Md V5 Repo
 
 
-<a href="https://github.com/boniphace704/BONIPHACE_MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://github.com/Fred1e/LUCKY_MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=darkgreen&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 star✨ my repo if you like this bot🤖
 
