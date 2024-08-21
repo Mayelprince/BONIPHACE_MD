@@ -74,7 +74,7 @@ star✨ my repo if you like this bot🤖
 
 **2. If You Have Account On Heroku**
 -<h1 align="center">       
-   ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/boniphace704/BONIPHACE_MD/tree/main)***
+   ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/boniphace478/BONIPHACE-MD/tree/main)***
 
 ##
 
